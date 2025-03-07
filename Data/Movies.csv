@@ -1,0 +1,54 @@
+movie_id,movie_name,movie_length,movie_lang,age_certificate,release_date,director_id
+1,A Clockwork Orange,112,English,18,02/02/1972,13
+2,Apocalypse Now,168,English,15,15/08/1979,9
+3,Battle Royale ,111,Japanese,18,04/01/2001,10
+4,Blade Runner ,121,English,15,25/06/1982,27
+5,Chungking Express,113,Chinese,15,03/08/1996,35
+6,City of God,145,Portuguese,18,17/01/2003,20
+7,City of Men,140,Portuguese,15,29/02/2008,22
+8,Cold Fish,108,Japanese,18,12/09/2010,30
+9,Crouching Tiger Hidden Dragon,139,Chinese,12,06/07/2000,15
+10,Eyes Wide Shut,130,English,18,16/07/1999,13
+11,Forrest Gump,119,English,PG,06/07/1994,36
+12,Gladiator,165,English,15,05/05/2000,27
+13,Gone with the Wind,123,English,PG,15/12/1939,8
+14,Goodfellas,148,English,15,19/09/1990,26
+15,Grand Budapest Hotel,117,English,PG,03/07/2014,3
+16,House of Flying Daggers,134,Chinese,12,12/03/2004,37
+17,In the Mood for Love,124,Chinese,12,02/02/2001,35
+18,Jaws,134,English,12,20/06/1975,31
+19,Leon,123,English,15,18/11/1994,5
+20,Let the Right One In,128,Swedish,15,24/10/2008,1
+21,Life of Brian,126,English,15,17/08/1979,12
+22,Life of Pi,129,English,PG,21/11/2012,15
+23,Mary Poppins,87,English,U,29/08/1964,32
+24,Never Let Me Go,117,English,15,15/09/2010,25
+25,Oldboy,130,Korean,18,25/03/2005,23
+26,Pans Labyrinth,98,Spanish,PG,29/12/2006,7
+27,Ponyo,107,Japanese,U,14/08/2009,21
+28,Pulp Fiction,136,English,15,14/10/1994,33
+29,Raging Bull,132,English,18,14/11/1980,26
+30,Rushmore,104,English,12,12/11/1998,3
+31,Spider-Man,118,English,PG,03/05/2002,24
+32,Spider-Man 2,115,English,PG,30/06/2004,24
+33,Spider-Man 3,112,English,PG,04/05/2007,24
+34,Spirited Away,120,Japanese,U,19/06/2001,21
+35,Star Wars: A New Hope,123,English,PG,25/05/1977,17
+36,Star Wars: Empire Strikes Back,150,English,PG,21/05/1980,17
+37,Star Wars: Return of the Jedi,139,English,PG,25/05/1983,17
+38,Submarine,115,English,15,03/06/2011,4
+39,Taxi Driver,117,English,15,07/02/1976,26
+40,The Darjeeling Limited,119,English,PG,29/09/2007,3
+41,The Fifth Element,149,English,12,09/05/1997,5
+42,The Lives of Others,165,German,15,09/02/2007,11
+43,The Shining,126,English,18,23/05/1980,13
+44,The Sound of Music,91,English,U,02/03/1965,34
+45,The Wizard of Oz,120,English,U,25/08/1939,8
+46,There Will Be Blood,168,English,15,26/12/2007,2
+47,"Three Billboards Outside Ebbing, Missouri ",134,English,15,10/11/2017,18
+48,Titanic,143,English,12,19/12/1997,6
+49,Top Gun,121,English,12,16/05/1986,28
+50,Toy Story,95,English,U,22/11/1995,14
+51,V for Vendetta,140,English,12,17/03/2006,19
+52,Watchmen,138,English,12,06/03/2009,29
+53,Way of the Dragon ,99,Chinese,12,01/06/1972,16
